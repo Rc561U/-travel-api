@@ -23,7 +23,9 @@ source venv/bin/activate
 ```
 
 <hr>
+
 ## Installation
+
 ### 1. Start application
 ```bash
 docker-compose up --build
