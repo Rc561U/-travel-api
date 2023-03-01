@@ -8,7 +8,7 @@
 > - Django Rest Framework
 
 
-## Instalation
+## Pre installation
 
 ### 1. Set global environment variables
 ```bash
@@ -23,7 +23,7 @@ source venv/bin/activate
 ```
 
 <hr>
-
+## Installation
 ### 1. Start application
 ```bash
 docker-compose up --build
